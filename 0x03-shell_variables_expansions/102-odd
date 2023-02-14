@@ -1,2 +1,2 @@
 #!/bin/bash
-103-water_and_stir
+paste - - | cut -f 1
